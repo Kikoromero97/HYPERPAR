@@ -9,8 +9,8 @@ public class DividirFactorial {
         this.denominador = denominador;
     }
 
-    public double divisio() {
-        double resultado = 1;
+    public long divisio() {
+        long resultado = 1;
         for (int i = denominador + 1; i <= numerador; i++) {
             resultado *= i;
         }
