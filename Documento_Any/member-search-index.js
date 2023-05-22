@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"es.iesmz.ed.algoritmes","c":"Any","l":"Any(long)","u":"%3Cinit%3E(long)"},{"p":"es.iesmz.ed.algoritmes","c":"Any","l":"digitsDiferents()"}];updateSearchResults();
